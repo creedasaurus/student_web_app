@@ -22,7 +22,7 @@
     "serve-favicon": "^2.5.0"
   },
   "devDependencies": {
-    "pg": "^7.17.0"
+    "pg": "^8.6.0"
   },
   "repository": {
     "type": "git",
